@@ -1,5 +1,5 @@
 Removed all SQL Server deps
-CommonLogging repleced by NLog 
+CommonLogging repleced by Microsoft.Logger
 
 # Welcome to DataflowEx
 
